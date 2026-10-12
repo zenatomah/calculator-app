@@ -1,0 +1,62 @@
+2026-10-06 09:36:36 INFO  com.student.App - Application started
+2026-10-06 09:36:36 INFO  com.student.App - 10 + 5 = 15
+2026-10-06 09:36:36 INFO  com.student.App - 10 - 5 = 5
+2026-10-06 09:36:36 INFO  com.student.App - 10 * 5 = 50
+2026-10-06 09:36:36 INFO  com.student.App - 10 / 2 = 5
+2026-10-06 09:36:36 ERROR com.student.Calculator - Division by zero: a=10, b=0
+2026-10-06 09:36:36 ERROR com.student.App - Calculation failed
+java.lang.ArithmeticException: Cannot divide by zero
+	at com.student.Calculator.divide(Calculator.java:23) ~[classes/:?]
+	at com.student.App.main(App.java:25) ~[classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.executeMainMethod(AbstractExecJavaBase.java:402) ~[?:?]
+	at org.codehaus.mojo.exec.ExecJavaMojo.executeMainMethod(ExecJavaMojo.java:142) ~[?:?]
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.doExecClassLoader(AbstractExecJavaBase.java:377) ~[?:?]
+	at org.codehaus.mojo.exec.AbstractExecJavaBase.lambda$execute$0(AbstractExecJavaBase.java:287) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2026-10-06 09:36:36 INFO  com.student.App - Application finished
+2026-10-06 10:26:39 INFO  com.student.App - Application started
+2026-10-06 10:26:39 INFO  com.student.App - 10 + 5 = 15
+2026-10-06 10:26:39 INFO  com.student.App - 10 - 5 = 5
+2026-10-06 10:26:39 INFO  com.student.App - 10 * 5 = 50
+2026-10-06 10:26:39 INFO  com.student.App - 10 / 2 = 5
+2026-10-06 10:26:39 ERROR com.student.Calculator - Division by zero: a=10, b=0
+2026-10-06 10:26:39 ERROR com.student.App - Calculation failed
+java.lang.ArithmeticException: Cannot divide by zero
+	at com.student.Calculator.divide(Calculator.java:23) ~[logging-lab-1.0-SNAPSHOT.jar:?]
+	at com.student.App.main(App.java:25) [logging-lab-1.0-SNAPSHOT.jar:?]
+2026-10-06 10:26:39 INFO  com.student.App - Application finished
+2026-10-06 17:21:32 INFO  com.student.App - Application started
+2026-10-06 17:21:32 INFO  com.student.App - 10 + 5 = 15
+2026-10-06 17:21:32 INFO  com.student.App - 10 - 5 = 5
+2026-10-06 17:21:32 INFO  com.student.App - 10 * 5 = 50
+2026-10-06 17:21:32 INFO  com.student.App - 10 / 2 = 5
+2026-10-06 17:21:32 ERROR com.student.Calculator - Division by zero: a=10, b=0
+2026-10-06 17:21:32 ERROR com.student.App - Calculation failed
+java.lang.ArithmeticException: Cannot divide by zero
+	at com.student.Calculator.divide(Calculator.java:23) ~[logging-lab-1.0-SNAPSHOT.jar:?]
+	at com.student.App.main(App.java:25) [logging-lab-1.0-SNAPSHOT.jar:?]
+2026-10-06 17:21:32 INFO  com.student.App - Application finished
+2026-10-07 10:29:41 INFO  com.student.App - Application started
+2026-10-07 10:29:41 INFO  com.student.App - 10 + 5 = 15
+2026-10-07 10:29:41 INFO  com.student.App - 10 - 5 = 5
+2026-10-07 10:29:41 INFO  com.student.App - 10 * 5 = 50
+2026-10-07 10:29:41 INFO  com.student.App - 10 / 2 = 5
+2026-10-07 10:29:41 ERROR com.student.Calculator - Division by zero: a=10, b=0
+2026-10-07 10:29:41 ERROR com.student.App - Calculation failed
+java.lang.ArithmeticException: Cannot divide by zero
+	at com.student.Calculator.divide(Calculator.java:23) ~[logging-lab-1.0-SNAPSHOT.jar:?]
+	at com.student.App.main(App.java:25) [logging-lab-1.0-SNAPSHOT.jar:?]
+2026-10-07 10:29:41 INFO  com.student.App - Application finished
+2026-10-07 17:22:51 INFO  com.student.App - Application started
+2026-10-07 17:22:51 INFO  com.student.App - 10 + 5 = 15
+2026-10-07 17:22:51 INFO  com.student.App - 10 - 5 = 5
+2026-10-07 17:22:51 INFO  com.student.App - 10 * 5 = 50
+2026-10-07 17:22:51 INFO  com.student.App - 10 / 2 = 5
+2026-10-07 17:22:51 ERROR com.student.Calculator - Division by zero: a=10, b=0
+2026-10-07 17:22:51 ERROR com.student.App - Calculation failed
+java.lang.ArithmeticException: Cannot divide by zero
+	at com.student.Calculator.divide(Calculator.java:23) ~[classes/:?]
+	at com.student.App.main(App.java:25) [classes/:?]
+2026-10-07 17:22:51 INFO  com.student.App - Application finished
